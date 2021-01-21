@@ -1,0 +1,89 @@
+Frameworks
+    -> Was ist ein Framework?
+        - Rahmenstruktur oder Programmiergerüst
+        - Werkzeuge um eine Software zu erstellen
+        - Reduction des zu schreibenden Codes durch Codebausteine
+        [Frameworks.png]
+        - sind auf den Anwendungsfall beschränkt
+        - enthalten genormte Schnittstellen
+        - häufigste Form sind Klassenbibliotheken
+            - strukturierte Verzeichnisse mit Vordefinierten Funktionen und Klassen
+        - in einem Projekt können mehrere Frameworks verwendet werden
+    -> Aufbau von Frameworks
+        -> Elemente
+            -> Laufzeitumgebung
+                - "Runtime"
+                - Konfiguration aus Hardware und Software
+                - Fürht Code aus
+            -> Virtuele Maschiene
+                - optional, nicht bei allen Frameworks
+                - zur Überprüfung von Applicationen auf Funktionalität
+            -> Libraries
+                - "Klassenbibliotheken"
+                - Framework != Library
+            -> Klassen
+                - gesammelte Eigenschaften und Funktionen
+                - Vordefiniert durch Framework
+                - müssen nur mit Daten gefüllt werden
+                - dadurch wird vermiden, dass alle Objekte einzeln konfiguriert werden müssen
+            -> API's
+                - "Application Programming Interfaces"
+                - Programmierschnittstellen
+                    - z.B. zu Datenbanken oder zu anderem code wie Zwischen Frontend und Backend
+                    - in der jQuery Klassenbibliothek ist Ajax die API vom Frontend zum Backend
+    -> Arten von Frameworks
+        -> Web Frameworks
+            -> Backend Frameworks
+                regelt zum Beispiel
+                - Datenzugriffe
+                - schützt interne Bereiche
+                - Reglung von Benuter Logins
+                - wichtige Hintergrundaufgaben z.B. Effizienz oder Server-Client Kommunikation
+            -> Frontend-Frameworks
+                regelt zum Beispiel
+                - Gestaltung des Frontends -> Stichwort responsive Webdesign
+                - Data-Binding -> Handling von Daten zwischen Objekten
+        -> App Frameworks
+            - Entwicklungs von eigenständigen Applications auf mobilen Geräten
+                - für z.B. Smartphones, Autos, TV's
+            - Native Apps
+                - spezifische Entwicklung für eine bestimmte Plattform oder Gerät
+            - Web Apps
+                - Entwicklung von Apps für Browser
+                - rendert nur den Teil der gerade benötigt wird
+                - module können einzeln angesteuert und gerendert werden
+            - Hybrid Apps
+                - Kombination aus Native App und Web App
+        -> Software Frameworks
+            - Entwicklung von System- und Anwendungssoftware
+            - kann Schnittstellen zur Hardware bieten
+            - ist eigentlich Überbegriff für Frameworkarten
+        -> Test Frameworks
+            - Unit-Tests
+            - zum Nachweisen von Fehlern in Komponenten einer Software
+    -> Beispiele
+        -> Catalyst
+            - Mariposa basiert darauf
+            - MVC Framework für Perl
+            - Session Handeling und Authorsierung
+            - Datenbankmanipulations Schnittstellen (nicht von uns genutzt)
+        -> .NET
+            - objektorientiert
+            - bestehend aus Common Language Runtime (CLR) und Klassenbibliothek
+            - Funktionen wie z.B. Dateizugriffe, Netzwerkkommunikation, Datenbankzugriffe, Grafik und grafische Benutzeroberflächen
+            - Methoden z.B. Hashfunktionen, Zeit- und Datumsberechnung sowie -konvertierung oder Funktionen aus der alltäglichen Mathematik
+            - erzwingt Typensicherheit
+            - Anwendungsentwicklung für Microsoft
+        -> Laravel
+            - PHP Framework
+        -> Bootstrap
+        -> ReactJs
+
+ReactJs
+    -> Wofür, Warum wird es genutzt?
+    -> Conzepte
+        -> Element rendering
+        -> Components und Props
+        -> State und Lifecycle
+        -> Eventhandeling
+    -> Vorteile von React zur herkommlichen Webentwicklung

@@ -1,0 +1,30 @@
+Frameworks
+    -> Was ist ein Framework?
+    -> Aufbau von Frameworks
+        -> Laufzeitumgebung
+        -> Virtuele Maschiene
+        -> Elemente
+            -> Libraries
+            -> Klassen
+            -> API's
+    -> Arten von Frameworks
+        -> Web Frameworks
+            -> Backend Frameworks
+            -> Frontend-Frameworks
+        -> App Frameworks
+        -> Software Frameworks
+        -> Test Frameworks
+    -> Beispiele
+        -> Catalyst
+        -> .NET
+        -> Laravel
+        -> Bootstrap
+        -> ReactJs
+ReactJs
+    -> Wofür, Warum wird es genutzt?
+    -> Conzepte
+        -> Element rendering
+        -> Components und Props
+        -> State und Lifecycle
+        -> Eventhandeling
+    -> Vorteile von React zur herkommlichen Webentwicklung

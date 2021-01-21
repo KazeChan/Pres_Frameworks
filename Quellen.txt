@@ -1,0 +1,10 @@
+https://www.tenmedia.de/de/glossar/entwicklungsframeworks
+https://www.df.eu/blog/die-beliebtesten-backend-frameworks-fuer-ihren-webauftritt/
+https://www.html-seminar.de/unterschied-seitenaufbau-fuer-mobiles-www.htm
+https://de.wikipedia.org/wiki/.NET\_Framework
+https://docs.microsoft.com/de-de/dotnet/framework/get-started/overview
+reactjs.org
+https://de.wikipedia.org/wiki/Bootstrap\_(Framework)
+
+Bilder
+https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
